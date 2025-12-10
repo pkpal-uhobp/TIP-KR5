@@ -1,0 +1,17 @@
+{
+  "name": "tip-kr5",
+  "version": "1.0.0",
+  "description": "Express.js Countdown Timer Application - Контрольная работа",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express", "timer", "countdown", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
